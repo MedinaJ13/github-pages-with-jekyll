@@ -1,2 +1,4 @@
-title : "my first blog"
-date  : 2022-02-09
+---
+title: "my first blog"
+date: 2022-02-08
+---
