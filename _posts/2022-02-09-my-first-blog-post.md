@@ -1,1 +1,2 @@
-date have been added 
+title : myfirstblog
+date: 2022,02,09
